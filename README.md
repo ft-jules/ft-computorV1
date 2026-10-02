@@ -42,7 +42,6 @@ python3 bonus/computor_bonus.py "5 + 4 * X + X^2 = X^2"
 ```
 computor.py          partie obligatoire, autonome
 test.sh              tests
-setupV1.sh           env de dev (black, flake8), optionnel
 bonus/
   computor_bonus.py
   utils.py           parsing, PGCD, fractions, formatage
